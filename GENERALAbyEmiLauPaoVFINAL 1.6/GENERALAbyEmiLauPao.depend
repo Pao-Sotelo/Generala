@@ -1,0 +1,852 @@
+# depslib dependency file v1.0
+1592500947 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupao\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1592501210 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupao\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1592501262 c:\users\usuario\desktop\tp integrador\generalabyemilaupao\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\generalabyemilaupao\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1592329715 source:c:\users\usuario\desktop\tp integrador\testdados.cpp
+	<iostream>
+
+1593202228 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov1.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1592501262 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov1.4\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov1.4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593201904 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov1.4\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593214106 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov1.7\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593213546 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov1.7\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov1.7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593213849 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov1.7\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593214106 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov1.8\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593213546 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov1.8\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov1.8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593289028 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593292043 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.0\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593295271 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.0\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593295634 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593379800 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.1\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593378998 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.1\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593295634 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593385496 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.2\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593385624 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov2.2\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593295634 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593394810 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.3\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593395945 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.3\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593457524 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593458035 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.5\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593457370 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov2.5\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593457524 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov3.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593458035 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov3.0\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov3.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593465283 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov3.0\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593457524 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov4.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593469823 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov4.0\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov4.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593468995 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov4.0\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593488695 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov5.0\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593469823 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov5.0\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov5.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593568176 source:c:\users\usuario\desktop\tp integrador\backupgenerala\generalabyemilaupaov5.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593618062 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov5.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov5.0\tpintegrador.h
+
+1571584339 c:\users\usuario\desktop\tp integrador\generalabyemilaupaov5.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593618335 source:c:\users\usuario\desktop\tp integrador\generalabyemilaupaov5.0\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593618062 source:c:\users\pao&nahu\downloads\generalabyemilaupaov5.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\pao&nahu\downloads\generalabyemilaupaov5.0\tpintegrador.h
+
+1571584339 c:\users\pao&nahu\downloads\generalabyemilaupaov5.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593637875 source:c:\users\pao&nahu\downloads\generalabyemilaupaov5.0\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593618062 source:c:\users\pao&nahu\downloads\generalabyemilaupaov5.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\pao&nahu\downloads\generalabyemilaupaov5.1\tpintegrador.h
+
+1571584339 c:\users\pao&nahu\downloads\generalabyemilaupaov5.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593718475 source:c:\users\pao&nahu\downloads\generalabyemilaupaov5.1\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593733466 source:c:\users\pao&nahu\desktop\generalabyemilaupaov5.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\pao&nahu\desktop\generalabyemilaupaov5.1\tpintegrador.h
+
+1571584339 c:\users\pao&nahu\desktop\generalabyemilaupaov5.1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593737194 source:c:\users\pao&nahu\desktop\generalabyemilaupaov5.1\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593733466 source:c:\users\pao&nahu\desktop\generalabyemilaupaov5.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\pao&nahu\desktop\generalabyemilaupaov5.3\tpintegrador.h
+
+1571584339 c:\users\pao&nahu\desktop\generalabyemilaupaov5.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593737643 source:c:\users\pao&nahu\desktop\generalabyemilaupaov5.3\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593733466 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaov5.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaov5.3\tpintegrador.h
+
+1571584339 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaov5.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593744933 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaov5.3\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593733466 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaovfinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaovfinal\tpintegrador.h
+
+1571584339 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaovfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593979383 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaov5.3\generalabyemilaupaovfinal\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593733466 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2\tpintegrador.h
+
+1571584339 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593992307 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1593733466 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2 (con el do mal)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2 (con el do mal)\tpintegrador.h
+
+1571584339 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2 (con el do mal)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594005438 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.2 (con el do mal)\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1594012371 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1593617809 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.3\tpintegrador.h
+
+1571584339 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594012886 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.3\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1594012371 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1594154194 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.4\tpintegrador.h
+
+1571584339 c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594154194 source:c:\users\miii1\desktop\ejercicio de lab\generalabyemilaupaovfinal 1.4\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1594012372 source:c:\users\pao&nahu\desktop\generalabyemilaupaovfinal 1.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1594420970 c:\users\pao&nahu\desktop\generalabyemilaupaovfinal 1.5\tpintegrador.h
+
+1571584340 c:\users\pao&nahu\desktop\generalabyemilaupaovfinal 1.5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594421532 source:c:\users\pao&nahu\desktop\generalabyemilaupaovfinal 1.5\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1594012372 source:c:\users\pao&nahu\dropbox\utn\generalabyemilaupaovfinal 1.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1594420970 c:\users\pao&nahu\dropbox\utn\generalabyemilaupaovfinal 1.6\tpintegrador.h
+
+1571584340 c:\users\pao&nahu\dropbox\utn\generalabyemilaupaovfinal 1.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594012372 source:c:\users\coti\dropbox\utn\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1594420970 c:\users\coti\dropbox\utn\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\tpintegrador.h
+
+1571584340 c:\users\coti\dropbox\utn\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594506248 source:c:\users\coti\dropbox\utn\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
+1594012372 source:c:\users\coti\dropbox\utn\2020\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"tpintegrador.h"
+	"rlutil.h"
+	<time.h>
+
+1594420970 c:\users\coti\dropbox\utn\2020\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\tpintegrador.h
+
+1571584340 c:\users\coti\dropbox\utn\2020\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1594506248 source:c:\users\coti\dropbox\utn\2020\primer cuatrimestre\laboratorio de programación\generalabyemilaupaovfinal 1.6\tpintegrador.cpp
+	<iostream>
+	"tpintegrador.h"
+	<windows.h>
+	"rlutil.h"
+	<cstdlib>
+	<time.h>
+
